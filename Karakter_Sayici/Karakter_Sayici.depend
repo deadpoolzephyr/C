@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521412988 source:c:\users\arda\desktop\c\karakter_sayici\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

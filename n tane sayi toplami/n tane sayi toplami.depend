@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517343885 source:c:\users\arda\desktop\c\n tane sayi toplami\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

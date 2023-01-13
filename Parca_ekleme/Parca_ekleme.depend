@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524658254 source:c:\users\arda\desktop\c\parca_ekleme\main.c
+	<stdio.h>
+	<stdlib.h>
+

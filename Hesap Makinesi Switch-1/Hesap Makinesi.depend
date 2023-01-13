@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507399957 source:c:\users\arda\desktop\c\hesap makinesi\main.c
+	<stdio.h>
+	<stdlib.h>
+

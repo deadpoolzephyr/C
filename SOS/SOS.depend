@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514071199 source:c:\users\arda\desktop\c\sos\main.c
+	<stdio.h>
+	<stdlib.h>
+

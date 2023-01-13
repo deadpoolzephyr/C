@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511177109 source:c:\users\arda\desktop\c\para sayma ayristirma\main.c
+	<stdio.h>
+	<stdlib.h>
+
